@@ -1,0 +1,28 @@
+{
+  "name": "verb-default",
+  "description": "Default verbfile and tasks that run when a verbfile.js is not found in the root of a project. This is used internally by verb.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonschlinkert/verb-default",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/verb-default.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/verb-default/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/verb-default/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
